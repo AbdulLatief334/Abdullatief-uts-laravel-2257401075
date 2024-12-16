@@ -69,7 +69,7 @@
             <a href="daftar" class="button">Daftar</a>
         </div>
         <p>Create by</p>
-        <p>Titi Safitri, MI22A, 2257401022</p>
+        <p>Abdul latief, MI22A, 2257401075</p>
     </div>
 </body>
 </html>
