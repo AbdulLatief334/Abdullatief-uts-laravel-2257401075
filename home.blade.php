@@ -8,8 +8,8 @@
 </head>
 <body>
     <div class="home-container">
-        <h1>Titi safitri</h1>
-        <p>2257401022</p>
+        <h1>Abdul latief</h1>
+        <p>2257401075</p>
         <p>MI22A</p>
         <a href=welcome style="margin-bottom: 5px;" type="submit" class="logout-button">Logout</a>
     </div>
